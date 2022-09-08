@@ -36,7 +36,7 @@ int main(int argc, char *argv[]) {
     // handle command-line arguments
     for (int i = 1; i < argc; i++) {
         if (!(strcmp(argv[i], "-V"))) {  // -V option
-            printf("my-look from CS537 Summer 2022\n");
+            printf("this is a my_look program!\n");
             exit(0);
         } else if (!(strcmp(argv[i], "-h"))) {  // -h option
             printf("Add a file using option -f, or use command line.\n");
