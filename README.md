@@ -14,4 +14,8 @@ Option "-f": specify a file as input right after
 
 2) wordle.c:
 
+worlde is a command-line program that takes a wordle word (5 letter word) and searches for its validity in a pre-existing file containing valid wordle words. It uses only 5 letter words which is the convention for the wordle game, and can be used to validate wordle input in addition to the game. 
+
+3) 
+
 
